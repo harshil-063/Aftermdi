@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Uncategorized Archives - AfterMedi</title>
+	<title>Uncategorized - AfterMedi</title>
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/category/uncategorized/</link>
+	<link></link>
 	<description></description>
 	<lastBuildDate>Tue, 07 Nov 2023 04:38:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/12/Layer_1-2.png</url>
-	<title>Uncategorized Archives - AfterMedi</title>
-	<link>/category/uncategorized/</link>
+	<url>/wp-content/uploads/2024/01/Layer_1-2.png</url>
+	<title>Uncategorized - AfterMedi</title>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -38,12 +38,8 @@
 		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a href="/hello-world/">Hello world!</a> appeared first on <a href="">AfterMedi</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a href="/hello-world/">Hello world!</a> appeared first on <a href="">AfterMedi</a>.</p>
-]]></content:encoded>
+<p>The post <a href="/hello-world/">Hello world!</a> first appeared on <a href="">AfterMedi</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p><p>The post <a href="/hello-world/">Hello world!</a> first appeared on <a href="">AfterMedi</a>.</p>]]></content:encoded>
 					
 					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
