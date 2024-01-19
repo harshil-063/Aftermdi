@@ -1,178 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on January 18, 2024 at 11:54 am by All in One SEO v4.5.4 - the original SEO plugin for WordPress. -->
-
-<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=page"?>
-<urlset
-	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	xmlns:xhtml="http://www.w3.org/1999/xhtml"
-	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc><![CDATA[/]]></loc>
-		<lastmod><![CDATA[2024-01-18T07:03:43+00:00]]></lastmod>
-		<changefreq><![CDATA[always]]></changefreq>
-		<priority><![CDATA[1]]></priority>
+		<loc>/</loc>
+		<lastmod>2024-01-19T06:58:19+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/home-three-hart.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2024/01/home-three-hart.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/cta_img-1.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2024/01/cta_img-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/Banner-1-1.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2024/01/Banner-1-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/Banner-3-1.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2024/01/Banner-3-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/Banner-2-1.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/after-hero.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2024/01/Banner-2-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/transcription-support-services/]]></loc>
-		<lastmod><![CDATA[2024-01-18T07:26:14+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/revenue-cycle-management/</loc>
+		<lastmod>2024-01-18T05:11:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/services/</loc>
+		<lastmod>2024-01-18T05:21:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/careers/</loc>
+		<lastmod>2024-01-18T05:29:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/client-benefit/</loc>
+		<lastmod>2024-01-18T05:30:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/contact/</loc>
+		<lastmod>2024-01-18T05:31:05+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
+			<image:loc>/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/payer-services/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:48:20+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
-		</image:image>
+		<loc>/physician-solutions/</loc>
+		<lastmod>2024-01-18T05:32:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/insurance-verification/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:44:38+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
-		</image:image>
+		<loc>/other-services/</loc>
+		<lastmod>2024-01-18T05:33:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/provider-credentialing/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:42:44+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
-		</image:image>
+		<loc>/medical-billing-process/</loc>
+		<lastmod>2024-01-18T05:36:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/emr-implementation/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:41:56+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
-		</image:image>
+		<loc>/medical-coding/</loc>
+		<lastmod>2024-01-18T05:40:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/medical-coding/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:40:53+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
-		</image:image>
+		<loc>/emr-implementation/</loc>
+		<lastmod>2024-01-18T05:41:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/medical-billing-process/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:36:43+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
-		</image:image>
+		<loc>/provider-credentialing/</loc>
+		<lastmod>2024-01-18T05:42:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/other-services/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:33:09+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
-		</image:image>
+		<loc>/insurance-verification/</loc>
+		<lastmod>2024-01-18T05:44:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/physician-solutions/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:32:09+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
-		</image:image>
+		<loc>/payer-services/</loc>
+		<lastmod>2024-01-18T05:48:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/contact/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:31:05+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg]]></image:loc>
-		</image:image>
+		<loc>/transcription-support-services/</loc>
+		<lastmod>2024-01-18T07:26:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc><![CDATA[/client-benefit/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:30:19+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<loc>/about-us/</loc>
+		<lastmod>2024-01-19T07:03:29+00:00</lastmod>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/careers/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:29:17+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/services/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:21:23+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/about-us/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:19:18+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2024/01/ABOUT-US.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/ABOUT-US.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2024/01/ABOUT-US.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/Reconciliation-01.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/revenue-cycle-management/]]></loc>
-		<lastmod><![CDATA[2024-01-18T05:11:37+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png]]></image:loc>
+			<image:loc>/wp-content/uploads/2024/01/company-representatives-one-man-and-one-woman-si.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Reconciliation-01.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
