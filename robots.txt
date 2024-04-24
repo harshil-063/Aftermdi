@@ -1,12 +1,6 @@
 User-agent: *
+Disallow:
 Disallow: /medirite/wp-admin/
 Allow: /medirite/wp-admin/admin-ajax.php
 
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
 Sitemap: https://www.aftermedi.com/sitemap.xml
-# ---------------------------
-# END YOAST BLOCK
