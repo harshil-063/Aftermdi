@@ -7,6 +7,6 @@ Allow: /medirite/wp-admin/admin-ajax.php
 User-agent: *
 Disallow:
 
-Sitemap: http://localhost/medirite/sitemap_index.xml
+Sitemap: https://www.aftermedi.com/sitemap.xml
 # ---------------------------
 # END YOAST BLOCK
